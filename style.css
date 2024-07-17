@@ -1,0 +1,61 @@
+
+body{
+    background-color: hsl(30, 54%, 90%);
+    justify-content: center;
+    height: 100%;
+    display: flex;
+    margin: 0;
+}
+h1,h2,h3{
+    font-family: "Young Serif"
+    
+}
+h3{color: hsl(29, 61%, 37%); }
+tr{
+    border: 2px solid black;
+}
+
+.card{
+    background-color: white;
+    padding: 50px;
+    height: fit-content;
+    width: 500px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+.C1{color: brown;}
+.image{
+    width: inherit;
+    border-radius: inherit;
+}
+
+.p1{padding-top: 20px}
+
+.p2{padding-right: 20%;
+padding-top: 4%;}
+
+
+.l1{padding-top: 0.5%;}
+div{background-color: hsl(330, 100%, 98%);
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 10px;
+}
+.l1{color:hsl(30, 10%, 34%);}
+.C1{
+    padding-left: 10px;
+}
+
+tbody, tr, td{
+    border-bottom: 1px solid rgb(71, 69, 69);
+    text-align: center;
+    color: hsl(30, 10%, 34%);
+}
+p{color: hsl(30, 10%, 34%);}
+h4{color:hsl(29, 61%, 37%);}
+ol{color: hsl(29, 61%, 37%);}
+table{
+    width: 100%;
+}
+
+    
